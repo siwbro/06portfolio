@@ -1,0 +1,9 @@
+main {
+  max-width: 1200px;
+  margin: auto;
+}
+h1 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 4rem;
+  color: rgb(255, 0, 0);
+}
